@@ -2,14 +2,18 @@
 
 This repository contains a **Python-based Field-Oriented Control (FOC) simulation** for a Brushless DC (BLDC)/PMSM motor, along with a **Tkinter GUI** that allows you to edit parameters and plot the simulation results.
 
-<p float="left">
-  <img src="gui_img_1.PNG" alt="Parameters Tab" title="Parameters Tab" width="300" />
-  <img src="gui_img_2.PNG" alt="Plot Tab" title="Plot Tab" width="300" />
-</p>
+<p align="center" style="margin: 20px 0;">
+  <figure style="display: inline-block; margin: 0 40px; text-align: center;">
+    <figcaption style="margin-top: 5px;">Parameters Tab</figcaption>
+    <img src="gui_img_1.PNG" width="600" alt="Parameters Tab">
 
-<p align="center">
-  <strong>Diagram A</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Diagram B</strong>
+  </figure>
+
+  <figure style="display: inline-block; margin: 0 40px; text-align: center;">
+    <figcaption style="margin-top: 5px;">Plot Tab</figcaption>
+    <img src="gui_img_2.PNG" width="600" alt="Plot Tab">
+    
+  </figure>
 </p>
 
 ## How to Run
